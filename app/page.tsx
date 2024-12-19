@@ -272,7 +272,7 @@ export default function Home() {
                   icon: "🔧",
                   items: ["Changing the toilet", "Replacing the toilet mechanism", "Replacing the siphon"]
                 }
-              ].map((service, index) => (
+              ].map((service) => (
                 <motion.div
                   key={service.title}
                   variants={fadeInUp}
