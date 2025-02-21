@@ -159,7 +159,7 @@ export default function Home() {
               >
                 <div className="aspect-square rounded-2xl overflow-hidden">
                   <img
-                    src="https://scontent.ftbs5-4.fna.fbcdn.net/v/t39.30808-6/469465765_1633454727379759_2336989936073198384_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=qo3QN3D19dYQ7kNvgEgjSXm&_nc_zt=23&_nc_ht=scontent.ftbs5-4.fna&_nc_gid=ATBBHTSvG9A65W2A3kZ75Nk&oh=00_AYCSTHi6dQk-NJc3Lu-dlYaRJiPbFs1AnRiYM55BcE9H_A&oe=676A1D4C"
+                    src="https://www.armorair.com/wp-content/uploads/2024/07/plumbing-installations.jpg"
                     alt="Professional Plumber"
                     className="w-full h-full object-cover"
                   />
